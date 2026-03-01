@@ -5,7 +5,7 @@ import coin from "../../assets/Currency.png";
 const Navbar = () => {
   return (
     <>
-      <div className="navbar bg-base-100 shadow-lg w-11/12 mx-auto">
+      <div className="navbar bg-base-100 w-11/12 mx-auto px-0 py-3">
         <div className="navbar-start w-full">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
